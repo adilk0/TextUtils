@@ -1,4 +1,4 @@
-# TextUtils - Adil Khan
+# TextUtils with Dark Mode - Adil Khan
 
 ## This app is used to manupulate text according to your needs.
 
